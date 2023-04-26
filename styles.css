@@ -1,6 +1,13 @@
 
 /* Your CSS Code here. */
-
+div{
+	background-color:lightblue;
+	padding:50px;
+	border:15px solid blue;
+	width:300px;
+	margin:20px;
+}
+/* 
 
 .text{
 	width:240px;
@@ -63,3 +70,4 @@
 .marg #p3{
 	padding:0px 0px 0px 10px;
 }
+ */
