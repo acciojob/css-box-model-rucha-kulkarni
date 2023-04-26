@@ -29,22 +29,14 @@
 	width:100%;
 	display:flex;
 	flex-direction:row;
-	
+	left:0px;
 	
 	margin:0px;
 	padding:0px;
 }
+
+
 #p1{
 	margin:0px;
 	text-align:center;
-}
-div p2{
-	
-	margin:0px;
-	float:left;
-}
-
-div p3{
-	margin:0px;
-	float:right;
 }
